@@ -12,9 +12,9 @@
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/terukula-sai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/terukula-sai/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/sai_127.0.0.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sai_127.0.0.1/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/codesai127_0_0_1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/codesai127_0_0_1?hr_r=1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/terukula-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terukula-sai" height="30" width="40" /></a>
+<a href="https://instagram.com/sai_127.0.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_127.0.0.1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/codesai127_0_0_1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codesai127_0_0_1?hr_r=1" height="30" width="40" /></a>
 </p>
 
 
@@ -33,6 +33,6 @@
 [![](https://visitcount.itsvg.in/api?id=SAI127001&icon=0&color=0)](https://visitcount.itsvg.in)
 
   
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/codesai127001" /></a></p>
+<p><a href="https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codesai127001" /></a></p><br><br>
 
 
