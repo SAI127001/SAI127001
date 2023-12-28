@@ -66,7 +66,9 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=SAI127001&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SAI127001.SAI127001&left_color=grey&right_color=black"  />
+</div>
 
 <p>
 <a href="https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codesai127001" /></a></p><br><br>
