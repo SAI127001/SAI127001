@@ -7,7 +7,7 @@
 
 <br>
 
-<h2> 💫 About Me: </h2>
+<h2> 💫 About Me : </h2>
 
 - 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
 - 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
@@ -59,7 +59,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=SAI127001&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
-<br>
 
 <h2 align="left"> ✍️ Random Dev Quote :</h2>
 
