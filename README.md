@@ -1,3 +1,5 @@
+<img src="./assets/sai-github-banner.jpg"><img>
+
 🚀 Front End Developer | 💻 Linux Enthusiast | 📚 Open-Source Enthusiast
 
 👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2021. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
