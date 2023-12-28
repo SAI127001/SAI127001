@@ -1,4 +1,4 @@
-<img src="./assets/sai-github-banner.jpg"><img>
+<img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"><img> <hr>
 
 🚀 Front End Developer | 💻 Linux Enthusiast | 📚 Open-Source Enthusiast
 
