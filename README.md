@@ -7,7 +7,7 @@
 
 <br>
 
-## 💫 About Me:
+<h2> 💫 About Me: </h2>
 
 - 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
 - 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
@@ -18,8 +18,7 @@
 
 <br>
 
-## 🌐 Socials:
-
+<h2> 🌐 Socials: </h2>
 <p align="left">
 <a href="https://linkedin.com/in/terukula-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terukula-sai" height="30" width="40" /></a>
 <a href="https://instagram.com/sai_127.0.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_127.0.0.1" height="30" width="40" /></a>
@@ -29,7 +28,7 @@
 
 <br>
 
-## 💻 Tech Stack:
+<h2> 💻 Tech Stack: </h2>
 
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
@@ -54,7 +53,12 @@
 
 <br>
 
-## ✍️ Random Dev Quote
+<h2> 🌟 GitHub Stats </h2>
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=SAI127001&show_icons=true&hide=contribs,prs)
+
+<br>
+<h2> ✍️ Random Dev Quote </h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
