@@ -18,7 +18,7 @@
 
 <br>
 
-<h2 align="left">🛠 Language and tools</h2>
+<h2 align="left">🛠 Language and tools :</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -61,7 +61,7 @@
   <img src="https://streak-stats.demolab.com?user=SAI127001&locale=en&mode=daily&theme=graywhite&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
 <br>
 
-<h2> ✍️ Random Dev Quote </h2>
+<h2 align="left"> ✍️ Random Dev Quote :</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
