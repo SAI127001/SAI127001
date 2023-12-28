@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="./styles.css" />
-<div class ="body">
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"><img> <hr>
 
 <h1 align="center"> 🚀 Front-End/Blockchain Developer  |  💻 Linux Enthusiast  <br>
@@ -66,4 +64,3 @@
 
 <p>
 <a href="https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codesai127001" /></a></p><br><br>
-</div>
