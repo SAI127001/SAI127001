@@ -20,9 +20,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/terukula-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="terukula-sai" height="30" width="40" /></a>
-
 <a href="https://instagram.com/sai_127.0.0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_127.0.0.1" height="30" width="40" /></a>
-
 <a href="https://www.hackerrank.com/codesai127_0_0_1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="codesai127_0_0_1?hr_r=1" height="30" width="40" /></a>
 
 </p>
