@@ -7,12 +7,12 @@
 <br>
 
 <h2> 💫 About Me : </h2>
-- 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
-- 📧 Contact me at codesai127.0.0.1@gmail.com <br>
-- 👨‍💻 I’m currently learning Blockchain Development. <br>
-- 💬 Ask me about Frontend Queries. <br>
-- 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/">Portfolio</a><br>
-- 🤝 I'm open to collaborating on React based projects.
+* 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
+* 📧 Contact me at codesai127.0.0.1@gmail.com <br>
+* 👨‍💻 I’m currently learning Blockchain Development. <br>
+* 💬 Ask me about Frontend Queries. <br>
+* 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/">Portfolio</a><br>
+* 🤝 I'm open to collaborating on React based projects.
 <br>
 
 <h2 align="left">🛠 Language and tools :</h2>
