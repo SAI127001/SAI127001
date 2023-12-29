@@ -8,7 +8,7 @@
 <br>
 
 <h2> 💫 About Me : </h2>
-
+<div align="right"> <img src="./assets/sai-profile.png"/></div>
 - 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
 - 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
 - 👨‍💻 I’m currently learning Blockchain Development.<br>
