@@ -4,17 +4,15 @@
   📚 Open-Source Enthusiast </h1>
 
 👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2021. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
-
 <br>
+
 <h2> 💫 About Me : </h2>
-<div align="left">
-  - 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
-  - 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
-  - 👨‍💻 I’m currently learning Blockchain Development.<br>
-  - 💬 Ask me about Frontend Queries.<br>
-  - 🧿 View my [Portfolio](https://terukulasai-portfolio.netlify.app/).<br>
-  - 🤝 I'm open to collaborating on React based projects.
-</div>
+- 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
+- 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
+- 👨‍💻 I’m currently learning Blockchain Development.<br>
+- 💬 Ask me about Frontend Queries.<br>
+- 🧿 View my [Portfolio](https://terukulasai-portfolio.netlify.app/).<br>
+- 🤝 I'm open to collaborating on React based projects.
 <br>
 
 <h2 align="left">🛠 Language and tools :</h2>
