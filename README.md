@@ -1,4 +1,4 @@
-<img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"><img> <hr>
+<img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
 <h1 align="center"> 🚀 Front-End/Blockchain Developer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast </h1>
@@ -8,7 +8,7 @@
 <br>
 
 <h2> 💫 About Me : </h2>
-<div align="right"> <img src="./assets/sai-profile.png"/></div>
+<div align="right"> <img src="./assets/sai-profile.png"></img></div>
 - 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
 - 📧 Contact me at codesai127.0.0.1@gmail.com.<br>
 - 👨‍💻 I’m currently learning Blockchain Development.<br>
