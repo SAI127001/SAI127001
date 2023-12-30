@@ -60,7 +60,7 @@
 
 <h2 align="left"> ✍️ Random Dev Quote :</h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=black)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
