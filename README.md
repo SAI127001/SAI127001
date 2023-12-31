@@ -8,7 +8,7 @@
 
 <h2> 💫 About Me : </h2>
   • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
-  • 📧 Contact me at (mailto:codesai127.0.0.1@gmail.com) <br>
+  • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
   • 👨‍💻 I’m currently learning Blockchain Development. <br>
   •  💬 Ask me about Frontend Queries. <br>
   • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/">Portfolio</a><br>
