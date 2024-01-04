@@ -11,7 +11,7 @@
   • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
   • 👨‍💻 I’m currently learning Blockchain Development. <br>
   •  💬 Ask me about Frontend Queries. <br>
-  • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/" target="_top">Portfolio</a><br>
+  • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/" target="_blank">Portfolio</a><br>
   • 🤝 I'm open to collaborating on React based projects.
 <br>
 
