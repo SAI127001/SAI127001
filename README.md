@@ -58,7 +58,7 @@
   <img src="https://streak-stats.demolab.com?user=SAI127001&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SAI127001&theme=react&hide_border=true" alt="GitHub Streak" /></a> -->
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sai127001&bg_color=20232a&color=ffffff&line=61dafb&point=20232a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-readme-activity-graph.vercel.app/graph?username=sai127001&bg_color=20232a&color=ffffff&line=61dafb&point=20232a&area=true&hide_border=true)
 
 <h2 align="left"> ✍️ Random Dev Quote :</h2>
 
