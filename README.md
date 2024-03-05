@@ -1,6 +1,6 @@
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
-<h1 align="center"> 🚀 Front-End/Blockchain Developer  |  💻 Linux Enthusiast  <br>
+<h1 align="center"> 🚀 Full-Stack Developer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
 👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2021. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
