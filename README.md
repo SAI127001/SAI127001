@@ -58,8 +58,6 @@
   <img src="https://streak-stats.demolab.com?user=SAI127001&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
 <!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SAI127001&theme=react&hide_border=true" alt="GitHub Streak" /></a> -->
 
-<a href="https://app.daily.dev/sai127001"><img src="https://api.daily.dev/devcards/v2/75yM350eTZU7BxmBK7hE9.png?r=uih&type=default" width="356" alt="Terukula Sai's Dev Card"/></a>
-
 <h2 align="left"> ✍️ Random Dev Quote :</h2>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
