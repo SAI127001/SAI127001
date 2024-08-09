@@ -1,16 +1,16 @@
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
-<h1 align="center"> 🚀 Full-Stack Developer  |  💻 Linux Enthusiast  <br>
+<h1 align="center"> 🚀 Cyber Security  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
-👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢", a passionate Developer with a love for crafting innovative designs and solutions. My journey in programming started in the year 2021. Here, you'll find a collection of projects that reflect my dedication to continuous learning and problem-solving.
+👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢".
    <br>
 
 <h2> 💫 About Me : </h2>
   • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
   • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
   • 👨‍💻 I’m currently learning Blockchain Development. <br>
-  •  💬 Ask me about Frontend Queries. <br>
+  • 💬 Ask me about Kali Linux. <br>
   • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/" target="_blank">Portfolio</a><br>
   • 🤝 I'm open to collaborating on React based projects.
 <br>
