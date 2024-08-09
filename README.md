@@ -1,6 +1,6 @@
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
-<h1 align="center"> 🚀 Cyber Security  |  💻 Linux Enthusiast  <br>
+<h1 align="center"> 🚀 Cyber Security Engineer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
 👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢".
