@@ -68,7 +68,5 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SAI127001.SAI127001&left_color=grey&right_color=black"  />
 </div>
 
-<img src="https://raw.githubusercontent.com/SAI127001/SAI127001/output/snake.svg" alt="Snake animation" />
-
 <p>
 <a href="https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codesai127001" /></a></p><br><br>
