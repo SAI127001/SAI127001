@@ -3,8 +3,6 @@
 <h1 align="center"> 🚀 Cyber Security Engineer / Developer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
-   <br>
-
 <h2> 💫 About Me : </h2>
   • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
   • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
