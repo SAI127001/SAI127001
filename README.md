@@ -3,7 +3,6 @@
 <h1 align="center"> 🚀 Cyber Security Engineer / Developer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
-👋 Welcome to my GitHub! I'm "𝐓𝐞𝐫𝐮𝐤𝐮𝐥𝐚 𝐒𝐚𝐢".
    <br>
 
 <h2> 💫 About Me : </h2>
