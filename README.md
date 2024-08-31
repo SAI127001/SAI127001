@@ -15,38 +15,27 @@
 <h2 align="left">🛠 Language and tools :</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=jenkins" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=ansible" height="40" alt="ansible logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
+
 <br>
 
 <h2 align="left">🔥   My Stats :</h2>
