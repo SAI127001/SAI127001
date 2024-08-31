@@ -12,7 +12,7 @@
   • 🤝 I'm open to collaborating on React based projects.
 <br>
 
-<h2 align="left">🛠 Language and tools :</h2>
+<h2 align="left">🛠 Language and Tools :</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
