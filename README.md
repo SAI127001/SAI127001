@@ -1,12 +1,12 @@
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
-<h1 align="center"> 🚀 Cyber Security Engineer / Developer  |  💻 Linux Enthusiast  <br>
+<h1 align="center"> 🚀 DevOps Engineer  |  💻 Linux Enthusiast  <br>
   📚 Open-Source Enthusiast</h1>
 
 <h2> 💫 About Me : </h2>
   • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
   • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
-  • 👨‍💻 I’m currently learning Blockchain Development. <br>
+  • 👨‍💻 I’m currently learning AWS. <br>
   • 💬 Ask me about Kali Linux. <br>
   • 🧿 View my <a href="https://terukulasai-portfolio.netlify.app/" target="_blank">Portfolio</a><br>
   • 🤝 I'm open to collaborating on React based projects.
