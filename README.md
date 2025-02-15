@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=989898">
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
 <h1 align="center"> 🚀 DevOps Engineer  |  💻 Linux Enthusiast  <br>
