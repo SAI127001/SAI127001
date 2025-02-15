@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff" />
 <img src="./assets/sai-github-banner.jpg" alt="Terukula Sai"></img> <hr>
 
 <h1 align="center"> 🚀 DevOps Engineer  |  💻 Linux Enthusiast  <br>
@@ -52,5 +52,4 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=SAI127001.SAI127001&left_color=grey&right_color=black"  />
 </div>
 
-<p>
-<a href="https://www.buymeacoffee.com/codesai127001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codesai127001" /></a></p><br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ffff&section=footer" />
