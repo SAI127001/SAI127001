@@ -6,9 +6,9 @@
 
 <h2> 💫 About Me : </h2>
   • 🇮🇳 Lives in India - Mumbai/Maharashtra.<br>
-  • 📧 Contact me at codesai127.0.0.1@gmail.com<br>
+  • 📧 Contact me at sai.terukula.dev@gmail.com<br>
   • 👨‍💻 I’m currently learning Kubernetes. <br>
-  • 💬 Ask me about Kali Linux. <br>
+  • 💬 Ask me about Deployment and Automation. <br>
   • 🧿 View my <a href="https://saiterukula.com" target="_blank">Portfolio</a><br>
   • 🤝 I'm open to collaborating on React based projects.
 <br>
